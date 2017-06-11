@@ -30,7 +30,7 @@ yarn add react-native-android-voice-persian
 ```gradle
 ...
 include ':VoiceModule', ':app'
-project(':VoiceModule').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-voice')
+project(':VoiceModule').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-voice-persian')
 ```
 
 * In `android/app/build.gradle`
@@ -60,7 +60,7 @@ public class MainApplication extends Application implements ReactApplication {
 ## Example
 
 ```javascript
-import SpeechAndroid from 'react-native-android-voice';
+import SpeechAndroid from 'react-native-android-voice-persian';
 
 ...
 async _buttonClick(){
