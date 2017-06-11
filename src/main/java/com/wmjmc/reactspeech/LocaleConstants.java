@@ -21,7 +21,7 @@ public final class LocaleConstants {
 
     /****** MEU LINDO IRAN *******/
     public static final String LOCALE_FA = "FA";
-    public static final String LOCALE_PORTUGUESE = "PERSIAN";
+    public static final String LOCALE_PERSIAN = "PERSIAN";
     /*********************************/
 
     /****** ZUEIRA *******/
