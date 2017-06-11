@@ -18,6 +18,12 @@ public final class LocaleConstants {
     public static final String LOCALE_PORTUGUESE = "PORTUGUESE";
     /*********************************/
 
+
+    /****** MEU LINDO IRAN *******/
+    public static final String LOCALE_FA = "FA";
+    public static final String LOCALE_PORTUGUESE = "PERSIAN";
+    /*********************************/
+
     /****** ZUEIRA *******/
     public static final String LOCALE_BR = "BR";
     public static final String LOCALE_PORTUGUESE_BRAZIL = "PORTUGUESE_BRAZIL";
@@ -115,6 +121,12 @@ public final class LocaleConstants {
         /****** MEU LINDO PORTUGAL *******/
         constants.put(LOCALE_PT, "pt_PT");
         constants.put(LOCALE_PORTUGUESE, "pt_PT");
+        /*********************************/
+
+
+        /****** MEU LINDO IRAN *******/
+        constants.put(LOCALE_FA, "fa-IR");
+        constants.put(LOCALE_PERSIAN, "fa-IR");
         /*********************************/
 
         /****** ZUEIRA *******/

@@ -1,7 +1,7 @@
 {
-  "name": "react-native-android-voice",
+  "name": "react-native-android-voice-persian",
   "version": "0.5.1",
-  "description": "A React Native Voice Recognition Module",
+  "description": "A React Native Voice Recognition Module With Persian Locale support",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,13 +13,14 @@
     "speech",
     "voice",
     "text",
-    "android"
+    "android",
+    "persian"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/JoaoCnh/react-native-android-voice.git"
+    "url": "git://github.com/shkarimpour/react-native-android-voice.git"
   },
-  "author": "WMJMC",
+  "author": "shk",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.13"
